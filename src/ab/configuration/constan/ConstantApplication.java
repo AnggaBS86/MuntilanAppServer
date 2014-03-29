@@ -5,7 +5,7 @@ public class ConstantApplication
 
     public static final String C_APP_NAME = "Muntilan Application Server";
     public static final String C_AB_DEVELOPMENT = "DEVELOPMENT";
-    public static final String C_VERSION_APPLICATION = "0.1";
+    public static final String C_VERSION_APPLICATION = "1.0.0";
     public static final String C_ID_APPLICATION = "Muntilan";
     public static final String C_AUTHOR = "Angga B.S";
     public static final String C_EMAIL_AUTHOR = "anggabs86@gmail.com";
