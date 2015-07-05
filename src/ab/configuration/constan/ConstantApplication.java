@@ -19,4 +19,6 @@ public class ConstantApplication
 	public static final String C_OS_MAC = "Mac OS";
 
     public static final String example ="Example";
+    
+    //konfigurasi
 }
