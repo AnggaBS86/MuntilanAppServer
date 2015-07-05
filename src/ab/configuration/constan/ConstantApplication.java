@@ -17,4 +17,6 @@ public class ConstantApplication
     public static final String C_OS_LINUX_FEDORA = "Linux Fedora";
     public static final String C_OS_LINUX_REDHAT = "Linux RedHat";
 	public static final String C_OS_MAC = "Mac OS";
+
+    public static final String example ="Example";
 }
