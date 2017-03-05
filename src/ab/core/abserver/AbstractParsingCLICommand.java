@@ -22,7 +22,7 @@ public abstract class AbstractParsingCLICommand
         Process p = null;
         try
         {
-            if(System.getProperty("os.name").contains("Windows"))
+            if(!System.getProperty("os.name").contains("Windows"))
             {
                 p = Runtime.getRuntime().exec(cmd);
             }
